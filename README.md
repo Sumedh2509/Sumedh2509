@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there, I am Sumedh 👋
 - 🔭 I’m currently working on problem solving/DSA and a combined portfolio website
 - 🌱 I’m currently learning flask in python and C
 - 📫 How to reach me: my email- sumedh.ghule123@gmail.com
+- 💬 Aiming to be a Jack of All Trades, Master of One
 <!--
 **Sumedh2509/Sumedh2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
